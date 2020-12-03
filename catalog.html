@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Catalog</title>
+        <meta name="description" content="Catalog Library Books Broadcast">
+        <script src="/js/catalog.js" async></script>
+        <link rel="icon" type="image/png" href="favicon.png">
+        <link rel="stylesheet" href="css/styles.css" />
+        <!-- <link rel="stylesheet" href="css/bootstrap.min.css" /> -->
+        <script src="js/jquery.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <header class="main-header">
+            <nav class="main-nav nav">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="catalog.html">Catalog</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="https://github.com/rizky-hanifudin">Contact</a></li>
+                </ul>
+            </nav>
+            <h1 class="band-name band-name-large">Library Books Broadcast</h1>
+        </header>
+        <section class="container content-section">
+            <h2 class="section-header">Buku Bulan September 2019</h2>
+            <div id="searchWrapper">
+                <input type="text" lang="id" name="searchBar" id="searchBar" placeholder="Masukkan Judul, Nama Penulis, atau Pembaca untuk mencari buku yang Anda inginkan" />
+            </div>
+            <ul id="booksList"></ul>
+            </div>            
+            <div class="shop-items">
+                <div class="shop-item">
+                    <span class="shop-item-title">Buku 365 Keliling Nusantara</span>
+                    <img class="shop-item-image" src="images/365_keliling_nusantara.png" alt="Cover Buku 365 Keliling Nusantara">
+                    <div class="shop-item-details">
+                        <span class="shop-item-price">Rp 12.000</span>
+                        <button class="btn btn-primary shop-item-button" type="button">Pesan</button>
+                    </div>
+                </div>
+                <div class="shop-item">
+                    <span class="shop-item-title">Buku Ilmu Pemerintahan Al-quran</span>
+                    <img class="shop-item-image" src="images/ilmu_pemerintahan_al-quran.png" alt="Cover Buku Ilmu Pemerintahan Al-quran">
+                    <div class="shop-item-details">
+                        <span class="shop-item-price">Rp 15.000</span>
+                        <button class="btn btn-primary shop-item-button"type="button">Pesan</button>
+                    </div>
+                </div>
+                <div class="shop-item">
+                    <span class="shop-item-title">Buku Kita Yang Sebatas Hampir</span>
+                    <img class="shop-item-image" src="images/kita_yang_sebatas_hampir.png" alt="Cover Buku Kita Yang Sebatas Hampir">
+                    <div class="shop-item-details">
+                        <span class="shop-item-price">Rp 10.000</span>
+                        <button class="btn btn-primary shop-item-button" type="button">Pesan</button>
+                    </div>
+                </div>
+                <div class="shop-item">
+                    <span class="shop-item-title">Buku Komik Hantu Nusantara</span>
+                    <img class="shop-item-image" src="images/komik_hantu_nusantara.png" alt="Cover Buku Komik Hantu Nusantara">
+                    <div class="shop-item-details">
+                        <span class="shop-item-price">Rp 19.500</span>
+                        <button class="btn btn-primary shop-item-button" type="button">Pesan</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="container content-section">
+            <h2 class="section-header">Buku Bulan Agustus 2019</h2>
+            <div class="shop-items">
+                <div class="shop-item">
+                    <span class="shop-item-title">Buku Membuat Kue</span>
+                    <img class="shop-item-image" src="images/membuat_kue.png" alt="Cover Buku Membuat Kue">
+                    <div class="shop-item-details">
+                        <span class="shop-item-price">Rp 19.000</span>
+                        <button class="btn btn-primary shop-item-button" type="button">Pesan</button>
+                    </div>
+                </div>
+                <div class="shop-item">
+                    <span class="shop-item-title">Buku Own Handbook</span>
+                    <img class="shop-item-image" src="images/own_handbook.png" alt="Cover Buku Own Handbook">
+                    <div class="shop-item-details">
+                        <span class="shop-item-price">Rp 6.000</span>
+                        <button class="btn btn-primary shop-item-button" type="button">Pesan</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="container content-section">
+            <h2 class="section-header">Pesanan</h2>
+            <div class="cart-row">
+                <span class="cart-item cart-header cart-column">Judul</span>
+                <span class="cart-price cart-header cart-column">Harga</span>
+                <span class="cart-quantity cart-header cart-column">Jumlah Buku</span>
+            </div>
+            <div class="cart-items">
+            </div>
+            <div class="cart-total">
+                <strong class="cart-total-title">Total</strong>
+                <span class="cart-total-price">Rp. 0</span>
+            </div>
+            <button class="btn btn-primary btn-purchase" alt="kirim pesanan buku ke admin" type="button">Pesan</button>
+        </section>
+        <footer class="main-footer">
+            <div class="container main-footer-container">
+                <p class="main-footer-copyright">
+                    ©Copyright 2020 by Rizky Service tJomputer. All rights reversed.
+                </p>
+                <ul class="nav footer-nav">
+                    <li>
+                        <a href="https://www.youtube.com">
+                            <img src="images/logo-youtube.png" lang="en" alt="Logo Youtube">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.spotify.com">
+                            <img src="images/logo-spotify.png" lang="en" alt="Logo Spotify">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com">
+                            <img src="images/logo-facebook.png" lang="en" alt="Logo Facebook">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </footer>
+        <script src="/js/functions.js"></script>
+    </body>
+</html>
