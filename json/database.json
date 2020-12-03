@@ -1,0 +1,904 @@
+[
+        {
+            "id": "dtb1",
+            "judul": "Harapan Di Atas Sajadah",
+            "penulis": "Mawar Malka",
+            "penerbit": "Wahyu Qolbu",
+            "kategori": "Fiksi",
+            "pembaca": "Dian P.",
+            "cover": ""
+        },
+        {
+            "id": "dtb2",
+            "judul": "Ayat-Ayat Cinta 2 Sebuah Novel Pembangun Jiwa",
+            "penulis": "Habiburrahman El Shirazy",
+            "penerbit": "Republika",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+            
+        },
+        {
+            "id": "dtb3",
+            "judul": "Peter Pan",
+            "penulis": "The Walt Disney Company",
+            "penerbit": "Walt Disney",
+            "kategori": "Fiksi",
+            "pembaca": "Galuh",
+            "cover": ""
+        },
+        {
+            "id": "dtb4",
+            "judul": "Negeri Di Ujung Tanduk",
+            "penulis": "Tere Liye",
+            "penerbit": "Pt Gramedia Pustaka Utama",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb5",
+            "judul": "The 10 Minute Life Coach Mewujudkan Citra Baru Diri Anda Strategi Cepat Dan Efektif",
+            "penulis": "Fiona Harrold",
+            "penerbit": "Pt Gramedia Pustaka Utama",
+            "kategori": "Non Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb6",
+            "judul": "Membangun Kerjasama Bisnis Online Tuntunan Praktis Menjadi Pebisnis Online Ulung",
+            "penulis": "Wisnu Sanjaya & Ridwan Sanjaya",
+            "penerbit": "Pt Elex Media Komputindo",
+            "kategori": "Non Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb7",
+            "judul": "Gusti Noeroel Mengejar Kebahagiaan",
+            "penulis": "Ully Hermono",
+            "penerbit": "Buku Kompas",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+            
+        },
+        {
+            "id": "dtb8",
+            "judul": "The Princess Diaries Buku Harian Sang Putri",
+            "penulis": "Meg Cabot",
+            "penerbit": "Pt Gramedia Pustaka Utama",
+            "kategori": "Fiksi",
+            "pembaca": "Puji",
+            "cover": ""
+        },
+        {
+            "id": "dtb9",
+            "judul": "Resep Pilihan Masakan Minuman, Kue Basah, Kue Kering, Es Puding, Dll",
+            "penulis": "Yunita P.",
+            "penerbit": "Abdi Pustaka Jaya",
+            "kategori": "Non Fiksi",
+            "pembaca": "Zahra",
+            "cover": ""
+        },
+        {
+            "id": "dtb10",
+            "judul": "Supernova: Episode Inteligensi Embun Pagi",
+            "penulis": "Dee Lestari",
+            "penerbit": "Pt Bentang Pustaka",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb11",
+            "judul": "Single Mom Berbagi Cerita",
+            "penulis": "Anna Farida",
+            "penerbit": "Metagraf Solo",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb12",
+            "judul": "Si Anak Cahaya",
+            "penulis": "Tere Liye",
+            "penerbit": "Republika",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb13",
+            "judul": "Mahasiswa Koplak Ketika Koplak Nggak Kapok-Kapok",
+            "penulis": "Wisnu Maulana",
+            "penerbit": "Pastel Books",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb14",
+            "judul": "Dia Adalah Kakakku",
+            "penulis": "Tere Liye",
+            "penerbit": "Republika",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb15",
+            "judul": "If High School Is A Game Here'Show To Break The Rules",
+            "penulis": "Cherie Carter-Scott, Ph. D.",
+            "penerbit": "Pt Gramedia Pustaka Utama",
+            "kategori": "Non Fiksi",
+            "pembaca": "Mila Kartina",
+            "cover": ""
+        },
+        {
+            "id": "dtb16",
+            "judul": "Eksperimen Jin Botol Kumpulan Cerita Percobaan Sains",
+            "penulis": "Astvat Ereta",
+            "penerbit": "Tiga Ananda",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb17",
+            "judul": "Jawaban Dalam Doa, Aku Memelukmu Tanpa Jeda",
+            "penulis": "Fitria Elisa",
+            "penerbit": "Transmedia",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb18",
+            "judul": "Tanah Air Cerpen Pilihan Kompas 2016",
+            "penulis": "Agus N, Ahmad T, Budi D, Damhuri M",
+            "penerbit": "Buku Kompas",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb19",
+            "judul": "Soe Hok-Gie... Sekali Lagi Buku Pesta Dan Cinta Di Alam Bangsanya",
+            "penulis": "Rudy B, Luki S. B, & Nessy L. R.",
+            "penerbit": "K. P. Gramedia",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb20",
+            "judul": "Epilog Rasa Aku Adalah Hati Yang Mengharap Rindu",
+            "penulis": "Desi Suryani",
+            "penerbit": "Transmedia Pustaka",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb21",
+            "judul": "Catatan Sang Murabbi Ketika Rindu Mendekap",
+            "penulis": "Arini Hidajati",
+            "penerbit": "Diva Press",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb22",
+            "judul": "Nona Teh Dan Tuan Kopi Edisi Parak",
+            "penulis": "Crowdstroia",
+            "penerbit": "Katadepan",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb23",
+            "judul": "Temu Sekedar Sapa Untuk Janjimu Yang Jauh",
+            "penulis": "Wirasakti Setyawan",
+            "penerbit": "Transmedia Pustaka",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb24",
+            "judul": "Kisah-Kisah Inspiratif Membangun Akhlak Anak Muslim",
+            "penulis": "M. Akhyar",
+            "penerbit": "Pt Elex Media Komputindo",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb25",
+            "judul": "Dongeng Asal Usul Binatang 15 Dongeng Asal Usul Seruu!",
+            "penulis": "Ade Cahya Satria & Imas Ajriana",
+            "penerbit": "Pt Elex Media Komputindo",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb26",
+            "judul": "Kisah Favorit Anak Jepang 12 Cerita",
+            "penulis": "Dicky Stefanus, S. Pd. & Olivia Bernadette, S. Pd",
+            "penerbit": "Pt Elex Media Komputindo",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb27",
+            "judul": "Paradoks-Amir Hamzah Seri Buku Saku Tempo: Tokoh Seni Dalam Pusaran Politik",
+            "penulis": "Bagja H, Firman A, Dakk",
+            "penerbit": "K. P. Gramedia",
+            "kategori": "Non Fiksi",
+            "pembaca": "Mila K.",
+            "cover": ""
+        },
+        {
+            "id": "dtb28",
+            "judul": "Kappa Sebuah Novel",
+            "penulis": "Ryuunosuke Akutagawa",
+            "penerbit": "Interprebook",
+            "kategori": "Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb29",
+            "judul": "Muhammad Yamin Penggagas Indonesia Yang Dihujat & Dipuji",
+            "penulis": "Arif Zulkifli, Redaksi Kpg",
+            "penerbit": "K. P. Gramedia",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yulia Baso",
+            "cover": ""
+        },
+        {
+            "id": "dtb30",
+            "judul": "Pelik Haruskah Aku Relain Kamu Dengannya?",
+            "penulis": "Ary Nilandari",
+            "penerbit": "Pt Bentang Pustaka",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb31",
+            "judul": "Anakku Guruku Kisah Inspirasional Para Orang Tua Tabah Mengasuh Anank \"Penyandang Kondisi Langka\"",
+            "penulis": "Dr. Benatha H, Dkk",
+            "penerbit": "Zaman",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb32",
+            "judul": "Jurus Mengarang Yang Tidak Diajarkan Di Kelas",
+            "penulis": "Anang Yb",
+            "penerbit": "Ghoswriter",
+            "kategori": "Non Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb33",
+            "judul": "Perspektif Biopsikososial Untuk Asesmen Keberfungsian Sosial",
+            "penulis": "Prof. Adi Fahrudin, Ph. D",
+            "penerbit": "Refika",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb34",
+            "judul": "Yorick Berdasarkan Kisah Nyata",
+            "penulis": "Kirana Kejora",
+            "penerbit": "Pt Nevsky Prospekt Indonesia",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb35",
+            "judul": "Buya Hamka Kisah Dan Catatan Dari Balik Penjara",
+            "penulis": "Ferry Taufiq El-Jaquene",
+            "penerbit": "Araska",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb36",
+            "judul": "Aroma Karsa",
+            "penulis": "Dee Lestari",
+            "penerbit": "Pt Bentang Pustaka",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb37",
+            "judul": "Malu Sebuah Refleksi Keindahan & Kewibawaan Seorang Wanita",
+            "penulis": "Muhammad Bin Musa Asy-Syarif",
+            "penerbit": "Tinta Medina Solo",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb38",
+            "judul": "Kejutan Kotak Makan Seri Rawat Dan Sayangi Aku",
+            "penulis": "Nabila Anwar",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb39",
+            "judul": "Teman Baru Tasya Seri Rawat Dan Sayangi Aku",
+            "penulis": "Nabila Anwar",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb40",
+            "judul": "Kasat Kusut Seri Rawat Dan Sayangi Aku",
+            "penulis": "Nabila Anwar",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb41",
+            "judul": "Sst, Ayo Sembunyi! Seri Rawat Dan Sayangi Aku",
+            "penulis": "Nabila Anwar",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb42",
+            "judul": "Selamat Tinggal Ben Seri Rawat Dan Sayangi Aku",
+            "penulis": "Nabila Anwar",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb43",
+            "judul": "Misi Penyelamatan Buku Vada Seri Rawat Dan Sayangi Aku",
+            "penulis": "Nabila Anwar",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb44",
+            "judul": "Pasukan Corat-Coret Seri Rawat Dan Sayangi Aku",
+            "penulis": "Nabila Anwar",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb45",
+            "judul": "Bankir Seri Mengenal Profesi",
+            "penulis": "Rae Sita Patappa",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb46",
+            "judul": "Kapten Kapal Seri Mengenal Profesi",
+            "penulis": "Rae Sita Patappa",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb47",
+            "judul": "Presiden Seri Mengenal Profesi",
+            "penulis": "Rae Sita Patappa",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb48",
+            "judul": "Dokter Kandungan Seri Mengenal Profesi",
+            "penulis": "Rae Sita Patappa",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb49",
+            "judul": "Pengacara Seri Mengenal Profesi",
+            "penulis": "Rae Sita Patappa",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb50",
+            "judul": "Jaksa Seri Mengenal Profesi",
+            "penulis": "Rae Sita Patappa",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb51",
+            "judul": "Insinyur Seri Mengenal Profesi",
+            "penulis": "Rae Sita Patappa",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb52",
+            "judul": "Akuntan Seri Mengenal Profesi",
+            "penulis": "Rae Sita Patappa",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb53",
+            "judul": "Ilmuwan Seri Mengenal Profesi",
+            "penulis": "Rae Sita Patappa",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb54",
+            "judul": "Sutradara Seri Mengenal Profesi",
+            "penulis": "Rae Sita Patappa",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb55",
+            "judul": "Membangun Karakter Anak Anak Dari Bangun Hingga Ia Tidur",
+            "penulis": "Faidatur Robiah",
+            "penerbit": "Pt Elex Media Komputindo",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb56",
+            "judul": "Ketika",
+            "penulis": "Ria Pohan",
+            "penerbit": "Namina Books",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb57",
+            "judul": "Umar Bin Abdul Aziz Sosok Pemimpin Zuhud Dan Khalifah Cerdas",
+            "penulis": "Dr. Abdul Aziz Bin Abdullah Al-Humaidi",
+            "penerbit": "Tinta Medina Solo",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb58",
+            "judul": "Bidadari Untuk Dewa Bahagia Itu Sederhana Dekat Dengan-Nya Dan Dekat Denganmu",
+            "penulis": "Asma Nadia",
+            "penerbit": "Kmo Publishing",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb59",
+            "judul": "Teknologi Pengolahan Air Sederhana",
+            "penulis": "Mohan Taufiq Mashuri",
+            "penerbit": "Deepublishing",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb60",
+            "judul": "The Prince Sang Penguasa",
+            "penulis": "Niccolo Machiavelli",
+            "penerbit": "Ecosystem Publishing",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb61",
+            "judul": "Undang-Undang Asn (Aparatur Sipil Negara) Terlengkap Dan Terupdate",
+            "penulis": "Tim Bhavana",
+            "penerbit": "Bhavana Publishing",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb62",
+            "judul": "Waktumu Adalah Usiamu Sebuah Refliksi Seorang Muslim",
+            "penulis": "Ismail Jalili, M. A.",
+            "penerbit": "Tinta Medina Solo",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb63",
+            "judul": "Mediating Islam Jurnalisme Kosmopolitan Di Negara-Negara Muslim Asia Tenggara",
+            "penulis": "Janet Steele",
+            "penerbit": "Pt Bentang Pustaka",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb64",
+            "judul": "Habibie Musik, Film Dan Kegemaran",
+            "penulis": "Febrial Pondriafi",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Non Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb65",
+            "judul": "Konsep Dan Pengembangan Kewirausahaan Di Indonesia",
+            "penulis": "Sayu Ketut Sutrisna Dewi, S.E., M.M., Ak.",
+            "penerbit": "Depublish",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb66",
+            "judul": "Reformasi Birokrasi Dalam Pelayanan Publik",
+            "penulis": "Dr. Rusriadi, S.H., M.Si.",
+            "penerbit": "Depublish",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb67",
+            "judul": "Jejak Sukses Jack Ma Alibaba.Com Kisah Buaya Di Sungai Yangtze",
+            "penulis": "Ms Ardison",
+            "penerbit": "Ecosystem Publishing",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb68",
+            "judul": "Elon Musk Teh Real Iron Man Sang Inovator Paling Brilian Abad 21",
+            "penulis": "Ms Anderson",
+            "penerbit": "Ecosystem Publishing",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb69",
+            "judul": "Habibie Makna Di Balik Lensa",
+            "penulis": "Ferrial Pondrafi",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Non Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb70",
+            "judul": "Gie-Dan Surat-Surat Yang Tersembunyi Seri Buku Saku Tempo: Pemuda Dan Gerakan Sosial",
+            "penulis": "Amarzan L, Anton A. Dan Redaksi Kpg",
+            "penerbit": "Kepustakaan Populer Gramedia",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yulia Baso",
+            "cover": ""
+        },
+        {
+            "id": "dtb71",
+            "judul": "Radio 101 Introduction To Announcing",
+            "penulis": "Hcjb Global",
+            "penerbit": "Hcjb Global",
+            "kategori": "Non Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb72",
+            "judul": "Menopause Masalah Dan Penanganannya",
+            "penulis": "Ita Eko S, Ssit., M. Keb & Reni Yuli A, Sst., M. Kes",
+            "penerbit": "Depublish",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb73",
+            "judul": "Mengapa Terjadi Skizofrenia Pencegahan Dan Pengenalan Terapi Gen",
+            "penulis": "Dr. Hasdianah H. Rohan, M.Si., Drh, Dkk",
+            "penerbit": "Depublish",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb74",
+            "judul": "Guki Yang Nakal Dan Empat Cerita Lainnya Dongeng Sebelum Tidur Anak Muslim",
+            "penulis": "Kak Anis",
+            "penerbit": "Mizan",
+            "kategori": "Fiksi",
+            "pembaca": "Freya",
+            "cover": ""
+        },
+        {
+            "id": "dtb75",
+            "judul": "Kesehatan Lingkungan Sanitasi, Kesehatan Lingkungan Dan K3",
+            "penulis": "Dr. Indasah, Ir., M.Kes.",
+            "penerbit": "Depublish",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb76",
+            "judul": "Saudaraku, Sudahkah Beramal Shalih Hari Ini?",
+            "penulis": "Abdullah Firmanzah Haswan",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb77",
+            "judul": "Mesin Pendingin",
+            "penulis": "Dr. Ir. Soetyono Ch. I & Muhsin Z, S.T M.Eng.",
+            "penerbit": "Depublish",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb78",
+            "judul": "La Tahzan For Hijabers Kisah-Kisah Perjuangan, Pengorbanan Dan Pjroses Jilbab Pertamaku",
+            "penulis": "Asma Nadia, Helvy Tiana Rosa, Dkk",
+            "penerbit": "Asma Nadia Publishing House",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb79",
+            "judul": "Don'T Be Angry, Mom Mendidik Anak Tanpa Marah",
+            "penulis": "Dr. Nurul Afifah",
+            "penerbit": "Ikon",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yulia Baso",
+            "cover": ""
+        },
+        {
+            "id": "dtb80",
+            "judul": "Kisah-Kisah Bangsa Eskimo Cerita Rakyat Dunia",
+            "penulis": "Clara K. Bayliss",
+            "penerbit": "Pt Elex Media Komputindo",
+            "kategori": "Fiksi",
+            "pembaca": "Akmal",
+            "cover": ""
+        },
+        {
+            "id": "dtb81",
+            "judul": "Blacky White",
+            "penulis": "Nunizzy",
+            "penerbit": "Bukune",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb82",
+            "judul": "Ainun Mata Cinta Habibie",
+            "penulis": "Fachmy Casofa",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Non Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb83",
+            "judul": "Habibie Karya Nyata Untuk Indonesia",
+            "penulis": "Fachmy Casofa, Ferrial Pondrafi & Windri Astuti",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Non Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb84",
+            "judul": "Habibie Jejak Sang Penanda Kebangkitan",
+            "penulis": "Fachmy Casofa",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Non Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb85",
+            "judul": "Habibie Totalitas Sang Teknosof",
+            "penulis": "A. Makmur Makka",
+            "penerbit": "Tiga Serangkai",
+            "kategori": "Non Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb86",
+            "judul": "Memeluk Takdir",
+            "penulis": "Nurul Miresi",
+            "penerbit": "Grasindo",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb87",
+            "judul": "Cinta Pengeran Es",
+            "penulis": "Dinni Adhiawaty",
+            "penerbit": "Kata Depan",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb88",
+            "judul": "Sahabat Dilarang Jatuh Cinta",
+            "penulis": "Fataya Azzahra",
+            "penerbit": "Falcon Publishing",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb89",
+            "judul": "Ngobrol Asyik Dengan Siapa Saja Puluhan Tkenik Berbicara Mulai Cara Berkenalan Sampai Pencitraan",
+            "penulis": "Ian Dimas",
+            "penerbit": "Saufa",
+            "kategori": "Non Fiksi",
+            "pembaca": "Nuning Purnama Ningsih",
+            "cover": ""
+        },
+        {
+            "id": "dtb90",
+            "judul": "Dahsyatnya 10 Kalimat Suci Kalimat-Kalimat Yang Harus Hadir Dalam Setiap Hari",
+            "penulis": "Abu Nabila",
+            "penerbit": "Tinta Medina Solo",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb91",
+            "judul": "Sunnah-Sunnah Harian Amalan Praktis Meneladani Sang Rasul",
+            "penulis": "Abdullah Hamud Al-Furaih",
+            "penerbit": "Tinta Medina Solo",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb92",
+            "judul": "Amazing!!! Cerita-Cerita Sains Terbaik Dari Hadis Nabi Berpetualang Mencari Ilmu Dalam Hadis Nabi",
+            "penulis": "Kak Irmayana",
+            "penerbit": "Al-Qudwah Publishing",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb93",
+            "judul": "Amazing!!! Cerita-Cerita Sains Terbaik Dari Al-Qur'An",
+            "penulis": "Af Idah Salmah",
+            "penerbit": "Al-Qudwah Publishing",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb94",
+            "judul": "Amazing!!! Cerita-Cerita Menakjubkan Tentang Keajaiban Langit",
+            "penulis": "Asri Wulantini",
+            "penerbit": "Al-Qudwah Publishing",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb95",
+            "judul": "Amazing!!! Cerita-Cerita Menakjubkan Tentang Keajaiban Bumi",
+            "penulis": "Asri Wulantini",
+            "penerbit": "Al-Qudwah Publishing",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb96",
+            "judul": "50 Perempuan Tangguh Dunia",
+            "penulis": "Dn. Priyanto & Fenny Lie",
+            "penerbit": "Pt Elex Media Komputindo",
+            "kategori": "Non Fiksi",
+            "pembaca": "Jean Tanwibawa",
+            "cover": ""
+        },
+        {
+            "id": "dtb97",
+            "judul": "Obsesi",
+            "penulis": "Lexie Xu",
+            "penerbit": "Pt Gramedia Pustaka Utama",
+            "kategori": "Fiksi",
+            "pembaca": "Yulia Baso",
+            "cover": ""
+        },
+        {
+            "id": "dtb98",
+            "judul": "Istighfar Solusi Dari Segala Dosa",
+            "penulis": "Ali Bin Nayib Asy-Syuhud",
+            "penerbit": "Tinta Medina Solo",
+            "kategori": "Non Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb99",
+            "judul": "The Wanker",
+            "penulis": "Alia Zalea",
+            "penerbit": "Kompas Gramedia",
+            "kategori": "Fiksi",
+            "pembaca": "Yuni Sulistyowati",
+            "cover": ""
+        },
+        {
+            "id": "dtb100",
+            "judul": "Profesor Cilik Rahasia Sains Sehari-Hari",
+            "penulis": "Tanty Arisha",
+            "penerbit": "Visi Mandiri",
+            "kategori": "Non Fiksi",
+            "pembaca": "Jean Tanwibawa",
+            "cover": ""
+        }
+]
